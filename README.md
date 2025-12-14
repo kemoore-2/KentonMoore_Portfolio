@@ -1,4 +1,4 @@
-# Kenton Moore
+# Aspiring Data Scientist
 
 #### Technical Skills: Python, SQL, HTML, CSS, Javascript
 
