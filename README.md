@@ -34,3 +34,5 @@ software developers, and the “Shift Left” approach.
 - Worked in Unit Testing Environments for early detection and resolution of defects and bugs
 - Deployed automated test scripts for the NC Department of Adult Correction Spring Disaster Recovery
 exercise.
+
+![Undergraduate Research Symposium](/assets/urspicture.jpg)
