@@ -20,3 +20,17 @@ Symposium.
 
 ![Undergraduate Research Symposium Poster](/assets/URS_Poster.png)
 ![Undergraduate Research Symposium Poster1](/assets/Confusion_matrix1.png)
+
+**Software Assurance Intern: (_May 2025 - August 2025_)**
+
+- Created and executed 20 Mabl automated test scripts, increasing test coverage and decreasing manual
+testing time by 30%.
+- Analysed various web applications within the NC Department of Adult Correction, including offender
+management, medical case tracking, housing, and financial systems.
+- Led the research and planning for a new statewide Quality Management tool, including features
+encompassing Strategy, AI-driven, and Reporting.
+- Emphasized continuous testing in the DevOps workflow through test automation, collaboration among
+software developers, and the “Shift Left” approach.
+- Worked in Unit Testing Environments for early detection and resolution of defects and bugs
+- Deployed automated test scripts for the NC Department of Adult Correction Spring Disaster Recovery
+exercise.
