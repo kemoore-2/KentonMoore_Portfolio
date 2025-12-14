@@ -3,7 +3,7 @@
 #### Technical Skills: Python, Java, HTML, CSS, JavaScript, C++, SQL, Excel, PowerPoint, Mabl, Jira, Google Colab, GitHub, Selenium, DevOps/Tools: GitHub Actions, Docker
 
 ## Education		        		
-- B.S., Computer Science | North Carolina Agricultural & Technical State University (_May 2026_)
+- B.S. Computer Science | North Carolina Agricultural & Technical State University (_May 2026_)
 
 ## Work Experiance
 **Undergraduate Research Assistant: (_August 2024 - May 2025_)**
