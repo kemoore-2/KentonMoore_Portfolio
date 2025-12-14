@@ -1,4 +1,4 @@
-# Kenton Moore Work Portfolio
+
 Work Portfolio 
 
 # [Project 1: Enhancing UAV Drone Defenses through Binary Classification](https://kemoore-2.github.io/KentonMoore_Portfolio/).
