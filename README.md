@@ -18,4 +18,4 @@ Naval Research.
 - Presented research and findings at North Carolina A&T State University's 2025 Spring Research
 Symposium.
 
-![Undergraduate Research Symposium Poster](
+![Undergraduate Research Symposium Poster](/assets/URS_Poster.png)
