@@ -20,6 +20,8 @@ Symposium.
 
 ![Undergraduate Research Symposium Poster](/assets/URS_Poster.png)
 ![Undergraduate Research Symposium Poster1](/assets/Confusion_matrix1.png)
+![Undergraduate Research Symposium](/assets/urspicture.jpg)
+![Undergraduate Research Symposium](/assets/AwardHonnorsBanquet.jpg)
 
 **Software Assurance Intern: (_May 2025 - August 2025_)**
 
@@ -34,5 +36,4 @@ software developers, and the “Shift Left” approach.
 - Worked in Unit Testing Environments for early detection and resolution of defects and bugs
 - Deployed automated test scripts for the NC Department of Adult Correction Spring Disaster Recovery
 exercise.
-
-![Undergraduate Research Symposium](/assets/urspicture.jpg)
+![Software Assurance Intern](/assets/internship.jpg)
