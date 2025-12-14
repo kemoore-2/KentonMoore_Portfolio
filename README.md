@@ -5,7 +5,7 @@
 ## Education		        		
 - B.S. Computer Science | North Carolina Agricultural & Technical State University (_May 2026_)
 
-## Work Experiance
+## Work Experience
 **Undergraduate Research Assistant: (_August 2024 - May 2025_)**
 
 - Conducted research to improve defenses for Unmanned Aerial Vehicles against vulnerabilities.
