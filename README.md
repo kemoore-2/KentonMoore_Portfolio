@@ -19,7 +19,6 @@ Naval Research.
 Symposium.
 
 ![Undergraduate Research Symposium Poster](/assets/URS_Poster.png)
-![Undergraduate Research Symposium Poster1](/assets/Confusion_matrix1.png)
 ![Undergraduate Research Symposium](/assets/urspicture.jpg)
 ![Undergraduate Research Symposium](/assets/AwardHonnorsBanquet.jpg)
 
