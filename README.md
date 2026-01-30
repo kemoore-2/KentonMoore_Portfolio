@@ -1,4 +1,4 @@
-# Aspiring Data Scientist
+# Data Analyst
 
 #### Technical Skills: Python, Java, HTML, CSS, JavaScript, C++, SQL, Excel, PowerPoint, Mabl, Jira, Google Colab, GitHub, Selenium, DevOps/Tools: GitHub Actions, Docker
 
